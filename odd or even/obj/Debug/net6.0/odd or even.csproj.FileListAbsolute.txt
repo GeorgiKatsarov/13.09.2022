@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\odd or even\bin\Debug\net6.0\odd or even.exe
+C:\Users\Georgi\Desktop\odd or even\bin\Debug\net6.0\odd or even.deps.json
+C:\Users\Georgi\Desktop\odd or even\bin\Debug\net6.0\odd or even.runtimeconfig.json
+C:\Users\Georgi\Desktop\odd or even\bin\Debug\net6.0\odd or even.dll
+C:\Users\Georgi\Desktop\odd or even\bin\Debug\net6.0\ref\odd or even.dll
+C:\Users\Georgi\Desktop\odd or even\bin\Debug\net6.0\odd or even.pdb
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.dll
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\ref\odd or even.dll
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.pdb
+C:\Users\Georgi\Desktop\odd or even\obj\Debug\net6.0\odd or even.genruntimeconfig.cache

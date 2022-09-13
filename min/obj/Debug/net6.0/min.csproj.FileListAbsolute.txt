@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\min\bin\Debug\net6.0\min.exe
+C:\Users\Georgi\Desktop\min\bin\Debug\net6.0\min.deps.json
+C:\Users\Georgi\Desktop\min\bin\Debug\net6.0\min.runtimeconfig.json
+C:\Users\Georgi\Desktop\min\bin\Debug\net6.0\min.dll
+C:\Users\Georgi\Desktop\min\bin\Debug\net6.0\ref\min.dll
+C:\Users\Georgi\Desktop\min\bin\Debug\net6.0\min.pdb
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.dll
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\ref\min.dll
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.pdb
+C:\Users\Georgi\Desktop\min\obj\Debug\net6.0\min.genruntimeconfig.cache

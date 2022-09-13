@@ -1,0 +1,15 @@
+C:\Users\Georgi\Desktop\Knights of honour\bin\Debug\net6.0\Knights of honour.exe
+C:\Users\Georgi\Desktop\Knights of honour\bin\Debug\net6.0\Knights of honour.deps.json
+C:\Users\Georgi\Desktop\Knights of honour\bin\Debug\net6.0\Knights of honour.runtimeconfig.json
+C:\Users\Georgi\Desktop\Knights of honour\bin\Debug\net6.0\Knights of honour.dll
+C:\Users\Georgi\Desktop\Knights of honour\bin\Debug\net6.0\ref\Knights of honour.dll
+C:\Users\Georgi\Desktop\Knights of honour\bin\Debug\net6.0\Knights of honour.pdb
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.csproj.AssemblyReference.cache
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.dll
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\ref\Knights of honour.dll
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.pdb
+C:\Users\Georgi\Desktop\Knights of honour\obj\Debug\net6.0\Knights of honour.genruntimeconfig.cache
